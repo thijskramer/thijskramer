@@ -3,8 +3,6 @@
 
 ## Hi there 👋
 
-I'm Thijs, I'm a fullstack frontend developer at Nedap!
-
 <!--
 **thijskramer/thijskramer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
